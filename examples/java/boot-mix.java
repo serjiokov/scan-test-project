@@ -1,3 +1,23 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: https://spring.io/projects/spring-boot
+*    Release: https://github.com/spring-projects/spring-boot/releases/tag/v2.6.15
+*    Source File: SpringCli.java
+*    
+*    Copyrights:
+*      copyright 2012-2019 the original author or authors
+*    
+*    Licenses:
+*      Eclipse Public License 1.0
+*      SPDXId: EPL-1.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 // spring-projects/spring-boot/blob/v1.3.1.RELEASE/spring-boot/src/main/java/org/springframework/boot/env/EnumerableCompositePropertySource.java
 public class EnumerableCompositePropertySource
         extends EnumerablePropertySource<Collection<PropertySource<?>>> {
