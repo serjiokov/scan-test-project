@@ -1,3 +1,24 @@
+%    ------ BEGIN LICENSE ATTRIBUTION ------
+%    
+%    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+%    
+%    Release: https://github.com/flatironinstitute/CaImAn-MATLAB/releases/tag/v0.7
+%    Source File: Initialization.m
+%    
+%    Copyrights:
+%      copyright (c) year name of author
+%      copyright (c) 1989, 1991 free software foundation, inc
+%    
+%    Licenses:
+%      GNU General Public License v2.0 or later
+%      SPDXId: GPL-2.0-or-later
+%    
+%      GNU General Public License v2.0 only
+%      SPDXId: GPL-2.0-only
+%    
+%    Auto-attribution by Threatrix, Inc.
+%    
+%    ------ END LICENSE ATTRIBUTION ------
 function varargout = Initialization(varargin)
 %INITIALIZATION MATLAB code file for Initialization.fig
 %      INITIALIZATION, by itself, creates a new INITIALIZATION or raises the existing
